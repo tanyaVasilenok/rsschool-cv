@@ -1,6 +1,6 @@
 # rsschool-cv
 
-My name is **Tatyana Vasilenok**.
+My name is *Tatyana Vasilenok*.
 
 **Contact info**:
 e-mail: *tanya.vasilenok@gmail.com*
